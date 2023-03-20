@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ggraphics
-- 🌱 I’m currently learning getting better at rust
+- 🌱 I’m currently learning/getting better at rust
 - 📫 How to reach me: eli.gottsbacher@gmail.com
 
 Hi there! My name is Elias Gottsbacher, but you can call me Gotzi or GodGotzi. I'm a 17-year-old student at HTBLA Kaindorf Austria with a passion for programming and a wide range of hobbies. When I'm not coding, you can find me playing volleyball, racing RC 1:8 cars, or gaming.
