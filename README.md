@@ -9,3 +9,6 @@ Hi there! My name is Elias Gottsbacher, but you can call me Gotzi or GodGotzi. I
 Speaking of programming, I'm well-versed in several languages. C/C++, Python, Rust and Java are my bread and butter. I'm also proficient in Kotlin and Javascript/Typescript.
 
 I'm always looking to improve my coding skills and learn new things. If you're interested in collaborating on a project or just want to chat about programming, feel free to reach out to me on Github. I'm excited to see what we can create together!
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=godgotzi&theme=dark&hide_border=false)<br/>
+
